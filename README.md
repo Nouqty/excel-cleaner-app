@@ -1,30 +1,30 @@
 ExcelFixer
 
-Aplicación para limpieza y transformación automática de datos en Excel.
+Application for automatic data cleaning and transformation in Excel.
 
-Funcionalidades
+Features
 
--Eliminación de duplicados 
--Limpieza de texto 
--Normalización de datos 
--Conversión de fechas
-- Generación de archivo limpio 
+- Duplicate removal
+- Text cleaning
+- Data normalization
+- Date conversion
+- Clean file generation
 
-Uso
+Usage
 
-1. Ejecutar la aplicación
-2. Seleccionar archivo Excel
-3. Procesar datos
-4. Obtener archivo limpio automáticamente
+1. Run the application
+2. Select Excel file
+3. Process data
+4. Automatically obtain a clean file
 
-Objetivo
+Purpose
 
-Esta herramienta está diseñada para automatizar tareas repetitivas relacionadas con la limpieza de datos, permitiendo ahorrar tiempo y reducir errores en el manejo de información. Es especialmente útil para usuarios que trabajan frecuentemente con archivos Excel y necesitan resultados rápidos y confiables.
+This tool is designed to automate repetitive tasks related to data cleaning, saving time and reducing errors in information handling. It is especially useful for users who frequently work with Excel files and need fast and reliable results.
 
-Tecnologías
+Technologies
 
-- Python 
-- Pandas 
-- Tkinter 
+- Python
+- Pandas
+- Tkinter
 
-Para obtener la aplicación compilada, contactar directamente.
+To obtain the compiled application, please contact us directly.
