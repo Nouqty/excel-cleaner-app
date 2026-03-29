@@ -1,4 +1,4 @@
-Excelfixer
+ExcelFixer
 
 Aplicación para limpieza y transformación automática de datos en Excel.
 
