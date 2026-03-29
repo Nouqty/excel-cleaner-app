@@ -133,7 +133,6 @@ def limpiar_archivo(ruta_entrada, log):
         ws.column_dimensions[get_column_letter(col[0].column)].width = mx + 4
     ws.row_dimensions[1].height = 22
 
-    # Hoja resumen
     ws2 = wb.create_sheet("Resumen")
     datos_res = [
         ("Resumen", ""),
