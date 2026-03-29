@@ -1,4 +1,4 @@
-Datafixer
+Excelfixer
 
 Aplicación para limpieza y transformación automática de datos en Excel.
 
@@ -26,3 +26,5 @@ Tecnologías
 - Python 
 - Pandas 
 - Tkinter 
+
+Para obtener la aplicación compilada, contactar directamente.
